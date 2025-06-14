@@ -128,7 +128,7 @@ O campo `foto` em obras e fiscalizações aceita imagens em dois formatos:
 
 ---
 
-## 📧 Envio de E-mail
+##  Envio de E-mail
 
 Quando uma **nova obra é cadastrada**, o sistema envia automaticamente um e-mail com os dados da obra para o endereço configurado no `.env`.
 
