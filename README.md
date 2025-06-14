@@ -23,7 +23,8 @@ backend-obras/
 ├── controllers/
 │   ├── obraController.js
 │   └── fiscalizacaoController.js
-│
+├── db/
+│   └── conexao.js
 ├── models/
 │   ├── Obra.js
 │   └── Fiscalizacao.js
