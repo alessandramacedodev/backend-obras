@@ -32,9 +32,6 @@ backend-obras/
 │   ├── obraRoutes.js
 │   └── fiscalizacaoRoutes.js
 │
-├── uploads/
-│   └── (para salvar imagens, se necessário)
-│
 ├── utils/
 │   └── sendEmail.js
 │
