@@ -7,7 +7,7 @@ const obraRoutes = require('./routes/obraRoutes');
 const fiscalizacaoRoutes = require('./routes/fiscalizacaoRoutes');
 
 const app = express();
-const PORT = process.env.PORT || 3000; // define a porta de forma flexível
+const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json({ limit: '10mb' }));
